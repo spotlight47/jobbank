@@ -8,7 +8,7 @@ Notes related to an online job bank
 - any time the job is seen
 - did you see it / did you click on it
 - what's the value proposition
-- position filtergin
+- position filtering
 - the job finds you
 - custom searches
 - membership ==> portfolio link
